@@ -1,3 +1,2 @@
 # Basic neural network from scratch
-## Udacity Deep Learning Foundations Project 1
-Implement gradient descent, backprop, etc. in `numpy`
+Project from the Udacity Deep Learning Foundations course, implementing forward pass, gradient descent, backprop, in `numpy`.
